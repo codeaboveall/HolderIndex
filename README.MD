@@ -1,6 +1,6 @@
-# Holder Index (Solana Edition)
+# Holder Index
 
-![Holder Index Logo](holderindexsolana.png)
+![Holder Index Logo](./holderindexsolana.png)
 
 ## Overview
 
@@ -2076,5 +2076,6 @@ Disclaimer
 This project is provided as-is.
 
 Nothing in this repository constitutes financial advice, investment solicitation, or a promise of rewards. Participation is voluntary and experimental. Use at your own risk.
+
 
 End of document.
