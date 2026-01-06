@@ -270,7 +270,6 @@ Distributions occur on a fixed interval (default: every 100 slots). Each distrib
 - Cooldown periods after large balance changes (anti-wash trading)
 - Emergency pause mechanism
 
-![Data Flow Diagram](data_flow.png)
 
 ### Frontend Consumption Layer
 
@@ -2078,4 +2077,5 @@ Nothing in this repository constitutes financial advice, investment solicitation
 
 
 End of document.
+
 
