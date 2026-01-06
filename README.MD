@@ -41,7 +41,7 @@ This is particularly relevant for:
 - Long-term ecosystem alignment
 - Merit-based distribution without manual curation
 
-![System Architecture Blueprint](system_architecture.png)
+
 
 ---
 
@@ -188,7 +188,6 @@ Where:
 - Floating point operations must be avoided (use fixed-point math)
 - Slot-based timing only (no wall-clock timestamps)
 
-![Scoring Algorithm Blueprint](scoring_blueprint.png)
 
 ### Leaderboard Engine
 
@@ -2079,3 +2078,4 @@ Nothing in this repository constitutes financial advice, investment solicitation
 
 
 End of document.
+
